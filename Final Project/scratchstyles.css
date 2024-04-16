@@ -1,0 +1,72 @@
+body {
+    background-color: #47b4dc;
+    color: #333;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    
+}
+
+main {
+    padding: 0px;
+    text-align: left;
+    display: inline-block;
+
+}
+
+section {
+    margin-bottom: 25px;
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.title{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.golftip{
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.tableaugraph{
+    text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.resumelistheading{
+    font-weight: bold;
+    font-style: normal;
+}
